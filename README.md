@@ -1,1 +1,2 @@
-# project-setup
+# dependencies
+/node_modules
